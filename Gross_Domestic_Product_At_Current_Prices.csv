@@ -1,0 +1,373 @@
+ID,Economic_Activity,Year,Value,Percentage_Contribution,Growth_Rate
+1,"Agriculture, forestry and fishing",2006,405.76,0.17,3.4
+2,Mining and quarrying,2006,6886.74,2.81,0
+3,Manufacturing,2006,27325.3,11.14,0
+4,"Electricity, gas, and water supply- waste management activities",2006,2362.23,0.96,7.4
+5,"Water supply- sewerage, waste management and remediation activities",2006,73,0.03,3.44
+6,Construction,2006,27048.65,11.03,0
+7,Wholesale and Retail trade,2006,71937.88,29.32,-32.6
+8,Transportation and storage,2006,22016.26,8.97,0
+9,Accommodation and food service activities,2006,8255.19,3.36,-5.4
+10,Information and communication,2006,8049.85,3.28,0
+11,Financial and insurance activities,2006,24352.14,9.93,0
+12,Real estate activities,2006,18065.17,7.36,0
+13,"Professional, scientific and technical activities",2006,9598.76,3.91,0
+14,Administrative and support service activities,2006,6907.97,2.82,0
+15,Public administration and defence- compulsory social security,2006,7362.7,3,0
+16,Education,2006,1763.24,0.72,0
+17,Human health and social work activities,2006,1128.14,0.46,0
+18,"Arts, entertainment and recreation",2006,303.11,0.12,0
+19,Other service activities,2006,507.56,0.21,0
+20,Activities of households as employers,2006,1052.87,0.43,0
+21,Gross Domestic Product,2006,245329.51,100,0
+22,"Agriculture, forestry and fishing",2007,436.01,0.14,7.45
+23,Mining and quarrying,2007,5687.69,1.8,-17.41
+24,Manufacturing,2007,28564.41,9.03,4.53
+25,"Electricity, gas, and water supply- waste management activities",2007,1960.94,0.62,-16.99
+26,"Water supply- sewerage, waste management and remediation activities",2007,77,0,5.8
+27,Construction,2007,38138.91,12.05,41
+28,Wholesale and Retail trade,2007,90952.22,28.74,26.43
+29,Transportation and storage,2007,29613.26,9.36,34.51
+30,Accommodation and food service activities,2007,8370.23,2.65,1.39
+31,Information and communication,2007,11152.15,3.52,38.54
+32,Financial and insurance activities,2007,34536.55,10.91,41.82
+33,Real estate activities,2007,26425.05,8.35,46.28
+34,"Professional, scientific and technical activities",2007,13860.58,4.38,44.4
+35,Administrative and support service activities,2007,9895.58,3.13,43.25
+36,Public administration and defence- compulsory social security,2007,9893.67,3.13,34.38
+37,Education,2007,2909.24,0.92,64.99
+38,Human health and social work activities,2007,1689.32,0.53,49.74
+39,"Arts, entertainment and recreation",2007,395.07,0.12,30.34
+40,Other service activities,2007,792.35,0.25,56.11
+41,Activities of households as employers,2007,1156.73,0.37,9.86
+42,Gross Domestic Product,2007,316429.94,100,28.98
+43,"Agriculture, forestry and fishing",2008,498.41,0.14,14.31
+44,Mining and quarrying,2008,5989.13,1.71,5.3
+45,Manufacturing,2008,29175.87,8.35,2.14
+46,"Electricity, gas, and water supply- waste management activities",2008,3661.66,1.05,86.73
+47,"Water supply- sewerage, waste management and remediation activities",2008,85,0,10.1
+48,Construction,2008,45915.96,13.14,20.39
+49,Wholesale and Retail trade,2008,97488.65,27.9,7.19
+50,Transportation and storage,2008,34054.54,9.74,15
+51,Accommodation and food service activities,2008,8835.83,2.53,5.56
+52,Information and communication,2008,12222.4,3.5,9.6
+53,Financial and insurance activities,2008,38437.53,11,11.3
+54,Real estate activities,2008,27258.58,7.8,3.15
+55,"Professional, scientific and technical activities",2008,14292.11,4.09,3.11
+56,Administrative and support service activities,2008,10354.74,2.96,4.64
+57,Public administration and defence- compulsory social security,2008,13326.05,3.81,34.69
+58,Education,2008,3373.18,0.97,15.95
+59,Human health and social work activities,2008,1932.98,0.55,14.42
+60,"Arts, entertainment and recreation",2008,452.04,0.13,14.42
+61,Other service activities,2008,940.68,0.27,18.72
+62,Activities of households as employers,2008,1249.1,0.36,7.99
+63,Gross Domestic Product,2008,349459.42,100,10.44
+64,"Agriculture, forestry and fishing",2009,468.45,0.15,-6.01
+65,Mining and quarrying,2009,5148.83,1.69,-14.03
+66,Manufacturing,2009,26473.88,8.71,-9.26
+67,"Electricity, gas, and water supply- waste management activities",2009,6962.7,2.29,90.15
+68,"Water supply- sewerage, waste management and remediation activities",2009,90,0,6.2
+69,Construction,2009,31435.42,10.35,-31.54
+70,Wholesale and Retail trade,2009,78311.02,25.77,-19.67
+71,Transportation and storage,2009,34170.17,11.25,0.34
+72,Accommodation and food service activities,2009,7576.58,2.49,-14.25
+73,Information and communication,2009,10976.59,3.61,-10.19
+74,Financial and insurance activities,2009,36689.58,12.07,-4.55
+75,Real estate activities,2009,21499.49,7.08,-21.13
+76,"Professional, scientific and technical activities",2009,11260.08,3.71,-21.21
+77,Administrative and support service activities,2009,8456.17,2.78,-18.34
+78,Public administration and defence- compulsory social security,2009,16573.62,5.45,24.37
+79,Education,2009,3161.67,1.04,-6.27
+80,Human health and social work activities,2009,2009.58,0.66,3.96
+81,"Arts, entertainment and recreation",2009,483.58,0.16,6.98
+82,Other service activities,2009,984.6,0.32,4.67
+83,Activities of households as employers,2009,1209.31,0.4,-3.19
+84,Gross Domestic Product,2009,303851.32,100,-13.05
+85,"Agriculture, forestry and fishing",2010,481.78,0.15,2.85
+86,Mining and quarrying,2010,6335.26,2.03,23.04
+87,Manufacturing,2010,27651.88,8.85,4.45
+88,"Electricity, gas, and water supply- waste management activities",2010,6922.7,2.22,-0.57
+89,"Water supply- sewerage, waste management and remediation activities",2010,90,0,-0.4
+90,Construction,2010,29336.73,9.39,-6.68
+91,Wholesale and Retail trade,2010,85830.14,27.48,9.6
+92,Transportation and storage,2010,35379.17,11.33,3.54
+93,Accommodation and food service activities,2010,7822.52,2.5,3.25
+94,Information and communication,2010,10889.57,3.49,-0.79
+95,Financial and insurance activities,2010,37845.7,12.12,3.15
+96,Real estate activities,2010,20051.19,6.42,-6.74
+97,"Professional, scientific and technical activities",2010,10350.1,3.31,-8.08
+98,Administrative and support service activities,2010,7932.37,2.54,-6.19
+99,Public administration and defence- compulsory social security,2010,17525.57,5.61,5.74
+100,Education,2010,3380.59,1.08,6.92
+101,Human health and social work activities,2010,1801.5,0.58,-10.35
+102,"Arts, entertainment and recreation",2010,391.75,0.13,-18.99
+103,Other service activities,2010,912.57,0.29,-7.32
+104,Activities of households as employers,2010,1445.94,0.46,19.57
+105,Gross Domestic Product,2010,312287.04,100,2.78
+106,"Agriculture, forestry and fishing",2011,482.23,0.15,0.09
+107,Mining and quarrying,2011,7126.56,2.22,12.49
+108,Manufacturing,2011,28533.14,8.87,3.19
+109,"Electricity, gas, and water supply- waste management activities",2011,8787.26,2.73,26.93
+110,"Water supply- sewerage, waste management and remediation activities",2011,92,0,3.2
+111,Construction,2011,27016.62,8.4,-7.91
+112,Wholesale and Retail trade,2011,89382.72,27.78,4.14
+113,Transportation and storage,2011,37444.84,11.64,5.84
+114,Accommodation and food service activities,2011,10040.45,3.12,28.35
+115,Information and communication,2011,11038.76,3.43,1.37
+116,Financial and insurance activities,2011,38974.97,12.11,2.98
+117,Real estate activities,2011,19104.66,5.94,-4.72
+118,"Professional, scientific and technical activities",2011,9772.03,3.04,-5.59
+119,Administrative and support service activities,2011,7640.81,2.37,-3.68
+120,Public administration and defence- compulsory social security,2011,17379.93,5.4,-0.83
+121,Education,2011,3599.52,1.12,6.48
+122,Human health and social work activities,2011,2185.59,0.68,21.32
+123,"Arts, entertainment and recreation",2011,501.73,0.16,28.08
+124,Other service activities,2011,1064.66,0.33,16.67
+125,Activities of households as employers,2011,1661.95,0.52,14.94
+126,Gross Domestic Product,2011,321738.43,100,3.03
+127,"Agriculture, forestry and fishing",2012,460.23,0.14,-4.56
+128,Mining and quarrying,2012,7838.65,2.3,9.99
+129,Manufacturing,2012,33628.54,9.87,17.86
+130,"Electricity, gas, and water supply- waste management activities",2012,9502.55,2.79,8.14
+131,"Water supply- sewerage, waste management and remediation activities",2012,93,0,0.8
+132,Construction,2012,25106.88,7.37,-7.07
+133,Wholesale and Retail trade,2012,92848.13,27.25,3.88
+134,Transportation and storage,2012,38393.3,11.27,2.53
+135,Accommodation and food service activities,2012,12037.9,3.53,19.89
+136,Information and communication,2012,12364.78,3.63,12.01
+137,Financial and insurance activities,2012,37294.94,10.94,-4.31
+138,Real estate activities,2012,22358.25,6.56,17.03
+139,"Professional, scientific and technical activities",2012,11586.14,3.4,18.56
+140,Administrative and support service activities,2012,8904.91,2.61,16.54
+141,Public administration and defence- compulsory social security,2012,17976.42,5.28,3.43
+142,Education,2012,3995.59,1.17,11
+143,Human health and social work activities,2012,2790.21,0.82,27.66
+144,"Arts, entertainment and recreation",2012,689.11,0.2,37.35
+145,Other service activities,2012,1292.33,0.38,21.38
+146,Activities of households as employers,2012,1693.9,0.5,1.92
+147,Gross Domestic Product,2012,340762.74,100,5.91
+148,"Agriculture, forestry and fishing",2013,446.95,0.12,-2.88
+149,Mining and quarrying,2013,7110.69,1.94,-9.29
+150,Manufacturing,2013,34941.94,9.54,3.91
+151,"Electricity, gas, and water supply- waste management activities",2013,10208.55,2.79,7.43
+152,"Water supply- sewerage, waste management and remediation activities",2013,95,0,1.6
+153,Construction,2013,26343.34,7.19,4.92
+154,Wholesale and Retail trade,2013,102150.3,27.89,10.02
+155,Transportation and storage,2013,39566.77,10.8,3.06
+156,Accommodation and food service activities,2013,15845.79,4.33,31.63
+157,Information and communication,2013,12833.26,3.5,3.79
+158,Financial and insurance activities,2013,38732.55,10.58,3.85
+159,Real estate activities,2013,23890.65,6.52,6.85
+160,"Professional, scientific and technical activities",2013,13294.32,3.63,14.74
+161,Administrative and support service activities,2013,10838.26,2.96,21.71
+162,Public administration and defence- compulsory social security,2013,18797.91,5.13,4.57
+163,Education,2013,4391.67,1.2,9.91
+164,Human health and social work activities,2013,2952.62,0.81,5.82
+165,"Arts, entertainment and recreation",2013,745.26,0.2,8.15
+166,Other service activities,2013,1333.37,0.36,3.18
+167,Activities of households as employers,2013,1778.59,0.49,5
+168,Gross Domestic Product,2013,366202.79,100,7.47
+169,"Agriculture, forestry and fishing",2014,477.93,0.13,6.93
+170,Mining and quarrying,2014,6698.8,1.76,-5.79
+171,Manufacturing,2014,35332.31,9.27,1.12
+172,"Electricity, gas, and water supply- waste management activities",2014,11029.29,2.89,8.04
+173,"Water supply- sewerage, waste management and remediation activities",2014,129,0.03,36
+174,Construction,2014,26510.5,6.96,0.63
+175,Wholesale and Retail trade,2014,101721.29,26.69,-0.42
+176,Transportation and storage,2014,42373.21,11.12,7.09
+177,Accommodation and food service activities,2014,18159.65,4.76,14.6
+178,Information and communication,2014,13875.17,3.64,8.12
+179,Financial and insurance activities,2014,41995.38,11.02,8.42
+180,Real estate activities,2014,24264.01,6.37,1.56
+181,"Professional, scientific and technical activities",2014,14365.98,3.77,8.06
+182,Administrative and support service activities,2014,11787.97,3.09,8.76
+183,Public administration and defence- compulsory social security,2014,20378.92,5.35,8.41
+184,Education,2014,5041.57,1.32,14.8
+185,Human health and social work activities,2014,2987.33,0.78,1.18
+186,"Arts, entertainment and recreation",2014,937.63,0.25,25.81
+187,Other service activities,2014,1412.54,0.37,5.94
+188,Activities of households as employers,2014,1797.12,0.47,1.04
+189,Gross Domestic Product,2014,381146.6,100,4.08
+190,"Agriculture, forestry and fishing",2015,490.41,0.13,2.61
+191,Mining and quarrying,2015,3812.19,0.97,-43.09
+192,Manufacturing,2015,36182.81,9.25,2.41
+193,"Electricity, gas, and water supply- waste management activities",2015,12291.57,3.14,11.44
+194,"Water supply- sewerage, waste management and remediation activities",2015,169,0.04,31
+195,Construction,2015,26260.63,6.71,-0.94
+196,Wholesale and Retail trade,2015,101883.13,26.03,0.16
+197,Transportation and storage,2015,46479.54,11.88,9.69
+198,Accommodation and food service activities,2015,18018.92,4.6,-0.77
+199,Information and communication,2015,14842.77,3.79,6.97
+200,Financial and insurance activities,2015,43209.78,11.04,2.89
+201,Real estate activities,2015,24808.23,6.34,2.24
+202,"Professional, scientific and technical activities",2015,15118.04,3.86,5.24
+203,Administrative and support service activities,2015,12409.72,3.17,5.27
+204,Public administration and defence- compulsory social security,2015,22317.27,5.7,9.51
+205,Education,2015,5559.53,1.42,10.27
+206,Human health and social work activities,2015,3124.45,0.8,4.59
+207,"Arts, entertainment and recreation",2015,1033.49,0.26,10.22
+208,Other service activities,2015,1559.81,0.4,10.43
+209,Activities of households as employers,2015,1939.8,0.5,7.94
+210,Gross Domestic Product,2015,391342.09,100,2.67
+211,"Agriculture, forestry and fishing",2016,498.51,0.13,1.65
+212,Mining and quarrying,2016,2980.16,0.75,-21.83
+213,Manufacturing,2016,36759.53,9.23,1.59
+214,"Electricity, gas, and water supply- waste management activities",2016,13381.77,3.36,8.87
+215,"Water supply- sewerage, waste management and remediation activities",2016,225.9,0.06,33.98
+216,Construction,2016,25385.94,6.37,-3.33
+217,Wholesale and Retail trade,2016,104227.16,26.16,2.3
+218,Transportation and storage,2016,44619.98,11.2,-4
+219,Accommodation and food service activities,2016,16401.36,4.12,-8.98
+220,Information and communication,2016,16060.9,4.03,8.21
+221,Financial and insurance activities,2016,44123.41,11.07,2.11
+222,Real estate activities,2016,26702.83,6.7,7.64
+223,"Professional, scientific and technical activities",2016,15743.62,3.95,4.14
+224,Administrative and support service activities,2016,13335.36,3.35,7.46
+225,Public administration and defence- compulsory social security,2016,24157.13,6.06,8.24
+226,Education,2016,5786.64,1.45,4.09
+227,Human health and social work activities,2016,3270.72,0.82,4.68
+228,"Arts, entertainment and recreation",2016,1166.25,0.29,12.85
+229,Other service activities,2016,1871.31,0.47,19.97
+230,Activities of households as employers,2016,1986.33,0.5,2.4
+231,Gross Domestic Product,2016,398458.9,100,1.82
+232,"Agriculture, forestry and fishing",2017,519.6,0.13,4.23
+233,Mining and quarrying,2017,3949.79,0.95,32.54
+234,Manufacturing,2017,37211.95,8.98,1.23
+235,"Electricity, gas, and water supply- waste management activities",2017,14100.83,3.4,5.37
+236,"Water supply- sewerage, waste management and remediation activities",2017,269.08,0.07,19.13
+237,Construction,2017,26533.69,6.4,4.52
+238,Wholesale and Retail trade,2017,105861.86,25.55,1.57
+239,Transportation and storage,2017,47796.61,11.54,7.12
+240,Accommodation and food service activities,2017,16630.07,4.01,1.39
+241,Information and communication,2017,16756.78,4.04,4.33
+242,Financial and insurance activities,2017,44756.28,10.8,1.43
+243,Real estate activities,2017,27205.92,6.57,1.88
+244,"Professional, scientific and technical activities",2017,16344.71,3.94,3.82
+245,Administrative and support service activities,2017,13704.01,3.31,2.76
+246,Public administration and defence- compulsory social security,2017,28103.33,6.78,16.34
+247,Education,2017,6123.93,1.48,5.83
+248,Human health and social work activities,2017,3513.66,0.85,7.43
+249,"Arts, entertainment and recreation",2017,1249.55,0.3,7.14
+250,Other service activities,2017,1939.59,0.47,3.65
+251,Activities of households as employers,2017,2054.47,0.5,3.43
+252,Gross Domestic Product,2017,414356.64,100,3.99
+253,"Agriculture, forestry and fishing",2018,521.28,0.12,0.32
+254,Mining and quarrying,2018,4917.06,1.16,24.49
+255,Manufacturing,2018,37540.02,8.85,0.88
+256,"Electricity, gas, and water supply- waste management activities",2018,14982.62,3.53,6.25
+257,Construction,2018,27369.06,6.45,3.15
+258,Wholesale and Retail trade,2018,106210.81,25.04,0.33
+259,Transportation and storage,2018,48952.31,11.54,2.42
+260,Accommodation and food service activities,2018,16285.71,3.84,-2.07
+261,Information and communication,2018,17204.69,4.06,2.67
+262,Financial and insurance activities,2018,46248.88,10.9,3.33
+263,Real estate activities,2018,27719.61,6.54,1.89
+264,"Professional, scientific and technical activities",2018,17123.35,4.04,4.76
+265,Administrative and support service activities,2018,14394.95,3.39,5.04
+266,Public administration and defence- compulsory social security,2018,29127.68,6.87,3.64
+267,Education,2018,6469.13,1.53,5.64
+268,Human health and social work activities,2018,3632.4,0.86,3.38
+269,"Arts, entertainment and recreation",2018,1322.26,0.31,5.82
+270,Other service activities,2018,1986.75,0.47,2.43
+271,Activities of households as employers,2018,2125.3,0.5,3.45
+272,Gross Domestic Product,2018,424133.87,100,2.36
+273,"Agriculture, forestry and fishing",2019,524.84,0.12,0.68
+274,Mining and quarrying,2019,4450.74,1.02,-9.48
+275,Manufacturing,2019,37546.55,8.6,0.02
+276,"Electricity, gas, and water supply- waste management activities",2019,16245.3,3.72,8.43
+277,Construction,2019,27673.1,6.34,1.11
+278,Wholesale and Retail trade,2019,110329.68,25.28,3.88
+279,Transportation and storage,2019,52006.64,11.92,6.24
+280,Accommodation and food service activities,2019,15648.67,3.59,-3.91
+281,Information and communication,2019,17751.38,4.07,3.18
+282,Financial and insurance activities,2019,47520.05,10.89,2.75
+283,Real estate activities,2019,27472.26,6.3,-0.89
+284,"Professional, scientific and technical activities",2019,17683.32,4.05,3.27
+285,Administrative and support service activities,2019,15249.82,3.49,5.94
+286,Public administration and defence- compulsory social security,2019,29932.23,6.86,2.76
+287,Education,2019,6916.88,1.59,6.92
+288,Human health and social work activities,2019,3855.81,0.88,6.15
+289,"Arts, entertainment and recreation",2019,1357.6,0.31,2.67
+290,Other service activities,2019,1993.7,0.46,0.35
+291,Activities of households as employers,2019,2186.58,0.5,2.88
+292,Gross Domestic Product,2019,436345.13,100,2.88
+293,"Agriculture, forestry and fishing",2020,519.31,0.14,-1.05
+294,Mining and quarrying,2020,3021.82,0.79,-32.11
+295,Manufacturing,2020,36322.84,9.5,-3.26
+296,"Electricity, gas, and water supply- waste management activities",2020,16591.68,4.34,2.13
+297,Construction,2020,26098.74,6.82,-5.69
+298,Wholesale and Retail trade,2020,92678.8,24.24,-16
+299,Transportation and storage,2020,37552.3,9.82,-27.79
+300,Accommodation and food service activities,2020,7693.96,2.01,-50.83
+301,Information and communication,2020,17420.34,4.56,-1.86
+302,Financial and insurance activities,2020,45008.91,11.77,-5.28
+303,Real estate activities,2020,24505.57,6.41,-10.8
+304,"Professional, scientific and technical activities",2020,15685.95,4.1,-11.3
+305,Administrative and support service activities,2020,13288.86,3.48,-12.86
+306,Public administration and defence- compulsory social security,2020,30578.24,8,2.16
+307,Education,2020,7065.86,1.85,2.15
+308,Human health and social work activities,2020,3796.55,0.99,-1.54
+309,"Arts, entertainment and recreation",2020,601.56,0.16,-55.69
+310,Other service activities,2020,1772.63,0.46,-11.09
+311,Activities of households as employers,2020,2201.36,0.58,0.68
+312,Gross Domestic Product,2020,382405.28,100,-12.36
+313,"Agriculture, forestry and fishing",2021,558.66,0.13,7.58
+314,Mining and quarrying,2021,5791.66,1.38,91.66
+315,Manufacturing,2021,38475.51,9.18,5.93
+316,"Electricity, gas, and water supply- waste management activities",2021,17935.95,4.28,8.1
+317,Construction,2021,25050.62,5.98,-4.02
+318,Wholesale and Retail trade,2021,101595.05,24.24,9.62
+319,Transportation and storage,2021,40884.76,9.75,8.87
+320,Accommodation and food service activities,2021,17981.98,4.29,133.72
+321,Information and communication,2021,17672.22,4.22,1.45
+322,Financial and insurance activities,2021,44880.52,10.71,-0.29
+323,Real estate activities,2021,29037.38,6.93,18.49
+324,"Professional, scientific and technical activities",2021,16778.7,4,6.97
+325,Administrative and support service activities,2021,14461.58,3.45,8.82
+326,Public administration and defence- compulsory social security,2021,30833.46,7.36,0.83
+327,Education,2021,7166.18,1.71,1.42
+328,Human health and social work activities,2021,5313.98,1.27,39.97
+329,"Arts, entertainment and recreation",2021,626.99,0.15,4.23
+330,Other service activities,2021,2115.3,0.5,19.33
+331,Activities of households as employers,2021,1955.83,0.47,-11.15
+332,Gross Domestic Product,2021,419116.32,100,9.6
+333,"Agriculture, forestry and fishing",2022,647.32,0.14,15.87
+334,Mining and quarrying,2022,8460.4,1.78,46.08
+335,Manufacturing,2022,40725.22,8.56,5.85
+336,"Electricity, gas, and water supply- waste management activities",2022,18687.29,3.93,4.19
+337,Construction,2022,25109.02,5.28,0.23
+338,Wholesale and Retail trade,2022,107555.71,22.62,5.87
+339,Transportation and storage,2022,61557.75,12.95,50.56
+340,Accommodation and food service activities,2022,23733.55,4.99,31.99
+341,Information and communication,2022,18468.89,3.88,4.51
+342,Financial and insurance activities,2022,52728.36,11.09,17.49
+343,Real estate activities,2022,33569.16,7.06,15.61
+344,"Professional, scientific and technical activities",2022,18265.03,3.84,8.86
+345,Administrative and support service activities,2022,15890.07,3.34,9.88
+346,Public administration and defence- compulsory social security,2022,31332.02,6.59,1.62
+347,Education,2022,8277.91,1.74,15.51
+348,Human health and social work activities,2022,5602.78,1.18,5.43
+349,"Arts, entertainment and recreation",2022,735.42,0.15,17.29
+350,Other service activities,2022,2225.2,0.47,5.2
+351,Activities of households as employers,2022,1945.34,0.41,-0.54
+352,Gross Domestic Product,2022,475516.44,100,13.46
+353,"Agriculture, forestry and fishing",2023,652.14,0.13,0.74
+354,Mining and quarrying,2023,7561.63,1.48,-10.62
+355,Manufacturing,2023,41522.31,8.13,1.96
+356,"Electricity, gas, and water supply- waste management activities",2023,20149.14,3.94,7.82
+357,Construction,2023,25978.6,5.09,3.46
+358,Wholesale and Retail trade,2023,113000.51,22.12,5.06
+359,Transportation and storage,2023,74014.96,14.49,20.24
+360,Accommodation and food service activities,2023,26445.33,5.18,11.43
+361,Information and communication,2023,19181.88,3.76,3.86
+362,Financial and insurance activities,2023,55891.78,10.94,6
+363,Real estate activities,2023,38427.48,7.52,14.47
+364,"Professional, scientific and technical activities",2023,18825.88,3.69,3.07
+365,Administrative and support service activities,2023,16191.69,3.17,1.9
+366,Public administration and defence- compulsory social security,2023,33432.44,6.54,6.7
+367,Education,2023,8661.89,1.7,4.64
+368,Human health and social work activities,2023,5849.68,1.15,4.41
+369,"Arts, entertainment and recreation",2023,795.3,0.16,8.14
+370,Other service activities,2023,2272.06,0.44,2.11
+371,Activities of households as employers,2023,1960.78,0.38,0.79
+372,Gross Domestic Product,2023,510815.48,100,7.42
